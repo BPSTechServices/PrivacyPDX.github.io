@@ -1,4 +1,8 @@
-## This file needs to be updated to represent the proper Jekyll update
+## Welcome to the Portland Privacy toolkit
+
+This toolkit is intended to be for the City of Portland bureaus and offices use. Learn more about this initiative, including policies, news and other digital justices efforts, in the [Smart City PDX website] (https://smartcitypdx.com/privacy).
+
+### This file needs to be updated to represent the proper Jekyll update
 
 ### Markdown
 
